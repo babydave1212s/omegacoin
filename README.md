@@ -1,2 +1,2 @@
 # omegacoin
-Omegacoin  a fork of Bitcoin
+Omegacoin The Original Bitcoin
